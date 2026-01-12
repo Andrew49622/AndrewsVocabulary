@@ -1,0 +1,1913 @@
+[
+  {
+    "word_id": 2,
+    "word": "abrupt",
+    "notes": null,
+    "translation": "improvviso, brusco",
+    "definition": "steep"
+  },
+  {
+    "word_id": 2,
+    "word": "abrupt",
+    "notes": null,
+    "translation": "improvviso, brusco",
+    "definition": "sudden, unexpected"
+  },
+  {
+    "word_id": 2,
+    "word": "abrupt",
+    "notes": null,
+    "translation": "ripido",
+    "definition": "steep"
+  },
+  {
+    "word_id": 2,
+    "word": "abrupt",
+    "notes": null,
+    "translation": "ripido",
+    "definition": "sudden, unexpected"
+  },
+  {
+    "word_id": 1,
+    "word": "acquaintance",
+    "notes": "noun",
+    "translation": "conoscente",
+    "definition": "knowledge of a subject"
+  },
+  {
+    "word_id": 1,
+    "word": "acquaintance",
+    "notes": "noun",
+    "translation": "conoscente",
+    "definition": "person known"
+  },
+  {
+    "word_id": 1,
+    "word": "acquaintance",
+    "notes": "noun",
+    "translation": "conoscenza, familiarità",
+    "definition": "knowledge of a subject"
+  },
+  {
+    "word_id": 1,
+    "word": "acquaintance",
+    "notes": "noun",
+    "translation": "conoscenza, familiarità",
+    "definition": "person known"
+  },
+  {
+    "word_id": 3,
+    "word": "afield",
+    "notes": null,
+    "translation": "in campagna",
+    "definition": null
+  },
+  {
+    "word_id": 4,
+    "word": "ailing",
+    "notes": null,
+    "translation": "malandato",
+    "definition": null
+  },
+  {
+    "word_id": 5,
+    "word": "ajar",
+    "notes": null,
+    "translation": "socchiuso, semiaperto",
+    "definition": null
+  },
+  {
+    "word_id": 6,
+    "word": "albeit",
+    "notes": null,
+    "translation": "sebbene",
+    "definition": "although, even if, even though"
+  },
+  {
+    "word_id": 7,
+    "word": "amid",
+    "notes": null,
+    "translation": "tra, fra, in mezzo a",
+    "definition": null
+  },
+  {
+    "word_id": 8,
+    "word": "anew",
+    "notes": null,
+    "translation": "ancora, di nuovo",
+    "definition": null
+  },
+  {
+    "word_id": 8,
+    "word": "anew",
+    "notes": null,
+    "translation": "in modo diverso",
+    "definition": null
+  },
+  {
+    "word_id": 9,
+    "word": "angst",
+    "notes": null,
+    "translation": "angoscia",
+    "definition": null
+  },
+  {
+    "word_id": 10,
+    "word": "arise",
+    "notes": "verb",
+    "translation": null,
+    "definition": "a problem, opportunity, or situation emerged"
+  },
+  {
+    "word_id": 11,
+    "word": "asylum",
+    "notes": null,
+    "translation": "asilo",
+    "definition": "refuge"
+  },
+  {
+    "word_id": 11,
+    "word": "asylum",
+    "notes": null,
+    "translation": "rifugio",
+    "definition": "refuge"
+  },
+  {
+    "word_id": 12,
+    "word": "avant-garde",
+    "notes": null,
+    "translation": "avanguardia",
+    "definition": null
+  },
+  {
+    "word_id": 13,
+    "word": "baffling",
+    "notes": null,
+    "translation": "sconcertante",
+    "definition": null
+  },
+  {
+    "word_id": 14,
+    "word": "barrel",
+    "notes": null,
+    "translation": "botte, barile",
+    "definition": null
+  },
+  {
+    "word_id": 14,
+    "word": "barrel",
+    "notes": null,
+    "translation": "canna pistola",
+    "definition": null
+  },
+  {
+    "word_id": 15,
+    "word": "bedecked",
+    "notes": null,
+    "translation": "decorato",
+    "definition": null
+  },
+  {
+    "word_id": 16,
+    "word": "benighted",
+    "notes": null,
+    "translation": "arretrato",
+    "definition": null
+  },
+  {
+    "word_id": 17,
+    "word": "blight",
+    "notes": null,
+    "translation": "rovina",
+    "definition": null
+  },
+  {
+    "word_id": 18,
+    "word": "blueprint",
+    "notes": null,
+    "translation": "piano, progetto",
+    "definition": null
+  },
+  {
+    "word_id": 19,
+    "word": "boffin",
+    "notes": "UK slang",
+    "translation": "scienziato",
+    "definition": null
+  },
+  {
+    "word_id": 23,
+    "word": "boisterous",
+    "notes": null,
+    "translation": "chiassoso, vivace",
+    "definition": null
+  },
+  {
+    "word_id": 20,
+    "word": "bony",
+    "notes": null,
+    "translation": "osseo, secco",
+    "definition": null
+  },
+  {
+    "word_id": 21,
+    "word": "boor",
+    "notes": null,
+    "translation": "cafone",
+    "definition": null
+  },
+  {
+    "word_id": 22,
+    "word": "botch",
+    "notes": "verb & noun, informal",
+    "translation": null,
+    "definition": "to do a job or task badly"
+  },
+  {
+    "word_id": 24,
+    "word": "brim",
+    "notes": "verb",
+    "translation": "traboccare di",
+    "definition": "to overflow with"
+  },
+  {
+    "word_id": 25,
+    "word": "brooding",
+    "notes": null,
+    "translation": "minaccioso",
+    "definition": null
+  },
+  {
+    "word_id": 25,
+    "word": "brooding",
+    "notes": null,
+    "translation": "pensoso",
+    "definition": null
+  },
+  {
+    "word_id": 26,
+    "word": "butcher",
+    "notes": "noun",
+    "translation": "abbattere",
+    "definition": "perform badly"
+  },
+  {
+    "word_id": 26,
+    "word": "butcher",
+    "notes": "noun",
+    "translation": "macellaio",
+    "definition": "perform badly"
+  },
+  {
+    "word_id": 26,
+    "word": "butcher",
+    "notes": "noun",
+    "translation": "macelleria",
+    "definition": "perform badly"
+  },
+  {
+    "word_id": 27,
+    "word": "buttress",
+    "notes": "noun",
+    "translation": null,
+    "definition": "supporting structure"
+  },
+  {
+    "word_id": 27,
+    "word": "buttress",
+    "notes": "noun",
+    "translation": null,
+    "definition": "to support or reinforce"
+  },
+  {
+    "word_id": 28,
+    "word": "buxom",
+    "notes": null,
+    "translation": null,
+    "definition": "large breasted"
+  },
+  {
+    "word_id": 29,
+    "word": "caveat",
+    "notes": null,
+    "translation": "condizioni, riserve",
+    "definition": null
+  },
+  {
+    "word_id": 30,
+    "word": "chortle",
+    "notes": "verb",
+    "translation": "ridacchiare",
+    "definition": null
+  },
+  {
+    "word_id": 31,
+    "word": "churlish",
+    "notes": null,
+    "translation": "volgare",
+    "definition": null
+  },
+  {
+    "word_id": 32,
+    "word": "clash",
+    "notes": "noun",
+    "translation": "scontrarsi",
+    "definition": null
+  },
+  {
+    "word_id": 32,
+    "word": "clash",
+    "notes": "noun",
+    "translation": "scontro, conflitto",
+    "definition": null
+  },
+  {
+    "word_id": 33,
+    "word": "cleanse",
+    "notes": "verb",
+    "translation": "detergere, pulire",
+    "definition": null
+  },
+  {
+    "word_id": 33,
+    "word": "cleanse",
+    "notes": "verb",
+    "translation": "purificare",
+    "definition": null
+  },
+  {
+    "word_id": 34,
+    "word": "clock",
+    "notes": "verb, slang",
+    "translation": null,
+    "definition": "to hit someone, especially head or face"
+  },
+  {
+    "word_id": 39,
+    "word": "coax",
+    "notes": "verb",
+    "translation": "convincere, persuadere",
+    "definition": null
+  },
+  {
+    "word_id": 40,
+    "word": "coddle",
+    "notes": "verb",
+    "translation": "cuocere a fuoco lento",
+    "definition": null
+  },
+  {
+    "word_id": 40,
+    "word": "coddle",
+    "notes": "verb",
+    "translation": "viziare, coccolare",
+    "definition": null
+  },
+  {
+    "word_id": 35,
+    "word": "compliant",
+    "notes": null,
+    "translation": "accondiscendente",
+    "definition": null
+  },
+  {
+    "word_id": 36,
+    "word": "conduit",
+    "notes": null,
+    "translation": "condotto, entratura",
+    "definition": null
+  },
+  {
+    "word_id": 37,
+    "word": "consignment",
+    "notes": null,
+    "translation": "conto vendita",
+    "definition": null
+  },
+  {
+    "word_id": 38,
+    "word": "convey",
+    "notes": "verb",
+    "translation": "comunicare, trasmettere",
+    "definition": "to communicate"
+  },
+  {
+    "word_id": 41,
+    "word": "cord",
+    "notes": null,
+    "translation": "spago",
+    "definition": null
+  },
+  {
+    "word_id": 42,
+    "word": "cornered",
+    "notes": null,
+    "translation": null,
+    "definition": "forced into an inescapable position"
+  },
+  {
+    "word_id": 43,
+    "word": "corny",
+    "notes": null,
+    "translation": "sdolcinato",
+    "definition": null
+  },
+  {
+    "word_id": 44,
+    "word": "corroborate",
+    "notes": "verb",
+    "translation": "avvalorare, confermare",
+    "definition": null
+  },
+  {
+    "word_id": 45,
+    "word": "county",
+    "notes": null,
+    "translation": "contea",
+    "definition": null
+  },
+  {
+    "word_id": 46,
+    "word": "cranny",
+    "notes": null,
+    "translation": "fessura",
+    "definition": null
+  },
+  {
+    "word_id": 47,
+    "word": "cumbersome",
+    "notes": null,
+    "translation": "ingombrante, scomodo",
+    "definition": null
+  },
+  {
+    "word_id": 48,
+    "word": "curb",
+    "notes": "verb",
+    "translation": null,
+    "definition": "to limit or control something"
+  },
+  {
+    "word_id": 49,
+    "word": "damp",
+    "notes": "adjective & noun",
+    "translation": "attenuare",
+    "definition": null
+  },
+  {
+    "word_id": 49,
+    "word": "damp",
+    "notes": "adjective & noun",
+    "translation": "umido, umidità",
+    "definition": null
+  },
+  {
+    "word_id": 50,
+    "word": "daunted",
+    "notes": null,
+    "translation": "intimorito",
+    "definition": null
+  },
+  {
+    "word_id": 51,
+    "word": "delectable",
+    "notes": null,
+    "translation": null,
+    "definition": null
+  },
+  {
+    "word_id": 52,
+    "word": "denizen",
+    "notes": null,
+    "translation": "abitante, residente",
+    "definition": "inhabitant, resident"
+  },
+  {
+    "word_id": 53,
+    "word": "depiction",
+    "notes": null,
+    "translation": "rappresentazione",
+    "definition": null
+  },
+  {
+    "word_id": 54,
+    "word": "dexterity",
+    "notes": null,
+    "translation": "destrezza",
+    "definition": null
+  },
+  {
+    "word_id": 55,
+    "word": "dimple",
+    "notes": null,
+    "translation": "fossetta, incavatura",
+    "definition": null
+  },
+  {
+    "word_id": 56,
+    "word": "dire",
+    "notes": null,
+    "translation": "disperato, penoso",
+    "definition": null
+  },
+  {
+    "word_id": 57,
+    "word": "do-over",
+    "notes": "noun",
+    "translation": "seconda possibilità",
+    "definition": null
+  },
+  {
+    "word_id": 58,
+    "word": "drab",
+    "notes": null,
+    "translation": "scialbo",
+    "definition": "not colourful"
+  },
+  {
+    "word_id": 59,
+    "word": "dreary",
+    "notes": "normally used with weather/days",
+    "translation": "triste, cupo, noioso",
+    "definition": null
+  },
+  {
+    "word_id": 60,
+    "word": "drudgery",
+    "notes": null,
+    "translation": "fatica",
+    "definition": null
+  },
+  {
+    "word_id": 61,
+    "word": "echelons",
+    "notes": null,
+    "translation": "grado, rango",
+    "definition": null
+  },
+  {
+    "word_id": 62,
+    "word": "egress",
+    "notes": null,
+    "translation": "uscita",
+    "definition": null
+  },
+  {
+    "word_id": 63,
+    "word": "elist",
+    "notes": null,
+    "translation": null,
+    "definition": "someone elite, snob"
+  },
+  {
+    "word_id": 64,
+    "word": "embalm",
+    "notes": "verb",
+    "translation": "imbalsamare",
+    "definition": null
+  },
+  {
+    "word_id": 65,
+    "word": "embroil",
+    "notes": "verb",
+    "translation": "invischiare, coinvolgere",
+    "definition": null
+  },
+  {
+    "word_id": 66,
+    "word": "enthuse",
+    "notes": "verb",
+    "translation": "entusiasmare",
+    "definition": null
+  },
+  {
+    "word_id": 67,
+    "word": "exert",
+    "notes": "verb",
+    "translation": "esercitare, applicare",
+    "definition": null
+  },
+  {
+    "word_id": 68,
+    "word": "fad",
+    "notes": null,
+    "translation": "moda passeggera",
+    "definition": null
+  },
+  {
+    "word_id": 69,
+    "word": "fast",
+    "notes": "verb",
+    "translation": "digiunare",
+    "definition": null
+  },
+  {
+    "word_id": 70,
+    "word": "feign",
+    "notes": "verb",
+    "translation": "fingere",
+    "definition": null
+  },
+  {
+    "word_id": 71,
+    "word": "fiendish",
+    "notes": null,
+    "translation": "diabolico",
+    "definition": null
+  },
+  {
+    "word_id": 71,
+    "word": "fiendish",
+    "notes": null,
+    "translation": "ingegnoso, elaborato",
+    "definition": null
+  },
+  {
+    "word_id": 72,
+    "word": "flay",
+    "notes": "verb",
+    "translation": "scuoiare",
+    "definition": null
+  },
+  {
+    "word_id": 73,
+    "word": "flock",
+    "notes": "noun",
+    "translation": "affollarsi",
+    "definition": null
+  },
+  {
+    "word_id": 73,
+    "word": "flock",
+    "notes": "noun",
+    "translation": "gregge, stormo",
+    "definition": null
+  },
+  {
+    "word_id": 74,
+    "word": "flounder",
+    "notes": "verb",
+    "translation": "barcollare, annaspare",
+    "definition": null
+  },
+  {
+    "word_id": 75,
+    "word": "forebode",
+    "notes": "verb & noun",
+    "translation": "preannunciare",
+    "definition": "to announce beforehand"
+  },
+  {
+    "word_id": 76,
+    "word": "forsake",
+    "notes": "verb",
+    "translation": "abbandonare",
+    "definition": null
+  },
+  {
+    "word_id": 77,
+    "word": "foyer",
+    "notes": null,
+    "translation": "ingresso",
+    "definition": null
+  },
+  {
+    "word_id": 78,
+    "word": "framework",
+    "notes": null,
+    "translation": null,
+    "definition": "infrastructures"
+  },
+  {
+    "word_id": 79,
+    "word": "fryed",
+    "notes": null,
+    "translation": "logoro",
+    "definition": null
+  },
+  {
+    "word_id": 80,
+    "word": "gable",
+    "notes": null,
+    "translation": "timpano",
+    "definition": null
+  },
+  {
+    "word_id": 82,
+    "word": "gag",
+    "notes": "noun",
+    "translation": "avere una voglia matta di",
+    "definition": "be gagging for [sth]: to really want something"
+  },
+  {
+    "word_id": 82,
+    "word": "gag",
+    "notes": "noun",
+    "translation": "avere una voglia matta di",
+    "definition": "to gag on [sth]: to have difficulty with"
+  },
+  {
+    "word_id": 82,
+    "word": "gag",
+    "notes": "noun",
+    "translation": "battuta, scherzo",
+    "definition": "be gagging for [sth]: to really want something"
+  },
+  {
+    "word_id": 82,
+    "word": "gag",
+    "notes": "noun",
+    "translation": "battuta, scherzo",
+    "definition": "to gag on [sth]: to have difficulty with"
+  },
+  {
+    "word_id": 82,
+    "word": "gag",
+    "notes": "noun",
+    "translation": "bavaglio",
+    "definition": "be gagging for [sth]: to really want something"
+  },
+  {
+    "word_id": 82,
+    "word": "gag",
+    "notes": "noun",
+    "translation": "bavaglio",
+    "definition": "to gag on [sth]: to have difficulty with"
+  },
+  {
+    "word_id": 82,
+    "word": "gag",
+    "notes": "noun",
+    "translation": "fare fatica a",
+    "definition": "be gagging for [sth]: to really want something"
+  },
+  {
+    "word_id": 82,
+    "word": "gag",
+    "notes": "noun",
+    "translation": "fare fatica a",
+    "definition": "to gag on [sth]: to have difficulty with"
+  },
+  {
+    "word_id": 82,
+    "word": "gag",
+    "notes": "noun",
+    "translation": "imbavagliare",
+    "definition": "be gagging for [sth]: to really want something"
+  },
+  {
+    "word_id": 82,
+    "word": "gag",
+    "notes": "noun",
+    "translation": "imbavagliare",
+    "definition": "to gag on [sth]: to have difficulty with"
+  },
+  {
+    "word_id": 82,
+    "word": "gag",
+    "notes": "noun",
+    "translation": "soffocare, strozzarsi",
+    "definition": "be gagging for [sth]: to really want something"
+  },
+  {
+    "word_id": 82,
+    "word": "gag",
+    "notes": "noun",
+    "translation": "soffocare, strozzarsi",
+    "definition": "to gag on [sth]: to have difficulty with"
+  },
+  {
+    "word_id": 81,
+    "word": "gait",
+    "notes": null,
+    "translation": "andatura",
+    "definition": null
+  },
+  {
+    "word_id": 83,
+    "word": "gal",
+    "notes": null,
+    "translation": "lady",
+    "definition": null
+  },
+  {
+    "word_id": 84,
+    "word": "garish",
+    "notes": null,
+    "translation": "sgargiante",
+    "definition": null
+  },
+  {
+    "word_id": 85,
+    "word": "girt",
+    "notes": null,
+    "translation": "cinto",
+    "definition": null
+  },
+  {
+    "word_id": 86,
+    "word": "girth",
+    "notes": null,
+    "translation": null,
+    "definition": "the width or thickness of an object, considered as the measurement around its circumference"
+  },
+  {
+    "word_id": 87,
+    "word": "goings-on",
+    "notes": null,
+    "translation": "vicende",
+    "definition": null
+  },
+  {
+    "word_id": 88,
+    "word": "grazing",
+    "notes": "noun",
+    "translation": "pascolo",
+    "definition": null
+  },
+  {
+    "word_id": 89,
+    "word": "grovel",
+    "notes": "verb",
+    "translation": "strisciare",
+    "definition": null
+  },
+  {
+    "word_id": 89,
+    "word": "grovel",
+    "notes": "verb",
+    "translation": "umiliare, umiliarsi",
+    "definition": null
+  },
+  {
+    "word_id": 90,
+    "word": "guffaw",
+    "notes": "verb",
+    "translation": "ridere fragorosamente",
+    "definition": null
+  },
+  {
+    "word_id": 92,
+    "word": "handkerchief",
+    "notes": null,
+    "translation": "fazzoletto di stoffa",
+    "definition": null
+  },
+  {
+    "word_id": 91,
+    "word": "harebrained",
+    "notes": null,
+    "translation": "strampalato",
+    "definition": null
+  },
+  {
+    "word_id": 93,
+    "word": "harrowing",
+    "notes": null,
+    "translation": "straziante",
+    "definition": null
+  },
+  {
+    "word_id": 94,
+    "word": "hassle",
+    "notes": null,
+    "translation": "seccatura",
+    "definition": null
+  },
+  {
+    "word_id": 95,
+    "word": "haunch",
+    "notes": null,
+    "translation": "coscia",
+    "definition": null
+  },
+  {
+    "word_id": 96,
+    "word": "haunt",
+    "notes": "verb",
+    "translation": "infestare, perseguitare",
+    "definition": "to be haunted by memory or ghost"
+  },
+  {
+    "word_id": 97,
+    "word": "haven",
+    "notes": null,
+    "translation": "rifugio",
+    "definition": null
+  },
+  {
+    "word_id": 98,
+    "word": "hazy",
+    "notes": null,
+    "translation": "nebbioso, annebbiato",
+    "definition": "memory: unclear"
+  },
+  {
+    "word_id": 98,
+    "word": "hazy",
+    "notes": null,
+    "translation": "nebbioso, annebbiato",
+    "definition": "vision: blurry"
+  },
+  {
+    "word_id": 98,
+    "word": "hazy",
+    "notes": null,
+    "translation": "offuscato",
+    "definition": "memory: unclear"
+  },
+  {
+    "word_id": 98,
+    "word": "hazy",
+    "notes": null,
+    "translation": "offuscato",
+    "definition": "vision: blurry"
+  },
+  {
+    "word_id": 99,
+    "word": "herd",
+    "notes": null,
+    "translation": "gregge",
+    "definition": null
+  },
+  {
+    "word_id": 100,
+    "word": "hives",
+    "notes": null,
+    "translation": "orticaria",
+    "definition": null
+  },
+  {
+    "word_id": 101,
+    "word": "hoarder",
+    "notes": null,
+    "translation": "accumulatore seriale",
+    "definition": null
+  },
+  {
+    "word_id": 102,
+    "word": "hosier",
+    "notes": null,
+    "translation": null,
+    "definition": "maker of tights and stockings"
+  },
+  {
+    "word_id": 103,
+    "word": "houndstooth",
+    "notes": null,
+    "translation": "motivo a quadri",
+    "definition": null
+  },
+  {
+    "word_id": 104,
+    "word": "intertwine",
+    "notes": "verb",
+    "translation": "intrecciare",
+    "definition": null
+  },
+  {
+    "word_id": 105,
+    "word": "jocular",
+    "notes": null,
+    "translation": "scherzoso, spiritoso",
+    "definition": null
+  },
+  {
+    "word_id": 106,
+    "word": "kindle",
+    "notes": "verb",
+    "translation": "accendere",
+    "definition": null
+  },
+  {
+    "word_id": 106,
+    "word": "kindle",
+    "notes": "verb",
+    "translation": "suscitare",
+    "definition": null
+  },
+  {
+    "word_id": 107,
+    "word": "kip",
+    "notes": null,
+    "translation": null,
+    "definition": "nap"
+  },
+  {
+    "word_id": 108,
+    "word": "lackadaisical",
+    "notes": null,
+    "translation": "apatico, svogliato",
+    "definition": null
+  },
+  {
+    "word_id": 109,
+    "word": "lag",
+    "notes": null,
+    "translation": "ritardo, sfasamento",
+    "definition": null
+  },
+  {
+    "word_id": 110,
+    "word": "lank",
+    "notes": null,
+    "translation": null,
+    "definition": null
+  },
+  {
+    "word_id": 111,
+    "word": "leisure",
+    "notes": null,
+    "translation": null,
+    "definition": "free time, without hurrying, ease"
+  },
+  {
+    "word_id": 112,
+    "word": "limp",
+    "notes": "verb",
+    "translation": "zoppicare",
+    "definition": null
+  },
+  {
+    "word_id": 113,
+    "word": "lithe",
+    "notes": null,
+    "translation": "agile, flessuoso",
+    "definition": null
+  },
+  {
+    "word_id": 114,
+    "word": "loathe",
+    "notes": "verb",
+    "translation": "detestare",
+    "definition": null
+  },
+  {
+    "word_id": 115,
+    "word": "long",
+    "notes": "verb",
+    "translation": "desiderare",
+    "definition": null
+  },
+  {
+    "word_id": 116,
+    "word": "longing",
+    "notes": "noun & adjective",
+    "translation": "desiderio, desideroso",
+    "definition": null
+  },
+  {
+    "word_id": 117,
+    "word": "maven",
+    "notes": "US informal",
+    "translation": "esperto",
+    "definition": null
+  },
+  {
+    "word_id": 118,
+    "word": "medley",
+    "notes": null,
+    "translation": "miscuglio, assortimento",
+    "definition": "song mix"
+  },
+  {
+    "word_id": 119,
+    "word": "motorhome",
+    "notes": null,
+    "translation": "camper",
+    "definition": null
+  },
+  {
+    "word_id": 120,
+    "word": "mussed",
+    "notes": null,
+    "translation": "disordinato, scompigliato",
+    "definition": null
+  },
+  {
+    "word_id": 121,
+    "word": "neglect",
+    "notes": "verb",
+    "translation": "trascurare, dimenticare",
+    "definition": null
+  },
+  {
+    "word_id": 122,
+    "word": "nook",
+    "notes": null,
+    "translation": "nicchia, angolo",
+    "definition": null
+  },
+  {
+    "word_id": 123,
+    "word": "nuisance",
+    "notes": null,
+    "translation": "fastidio, disturbo, seccatura",
+    "definition": null
+  },
+  {
+    "word_id": 126,
+    "word": "off-putting",
+    "notes": null,
+    "translation": "sgradevole",
+    "definition": null
+  },
+  {
+    "word_id": 124,
+    "word": "offhand",
+    "notes": null,
+    "translation": "disinvolto",
+    "definition": null
+  },
+  {
+    "word_id": 125,
+    "word": "offload",
+    "notes": "verb",
+    "translation": "scaricare, liberarsi di",
+    "definition": null
+  },
+  {
+    "word_id": 127,
+    "word": "ostrich",
+    "notes": null,
+    "translation": "struzzo",
+    "definition": null
+  },
+  {
+    "word_id": 128,
+    "word": "painstakingly",
+    "notes": null,
+    "translation": "attentamente, dettagliatamente",
+    "definition": null
+  },
+  {
+    "word_id": 128,
+    "word": "painstakingly",
+    "notes": null,
+    "translation": "intenso, difficile",
+    "definition": null
+  },
+  {
+    "word_id": 129,
+    "word": "pantry",
+    "notes": null,
+    "translation": "dispensa, ripostiglio",
+    "definition": null
+  },
+  {
+    "word_id": 130,
+    "word": "pantyhose",
+    "notes": null,
+    "translation": "collant, calzamaglia",
+    "definition": null
+  },
+  {
+    "word_id": 131,
+    "word": "parse",
+    "notes": "verb",
+    "translation": "analizzare",
+    "definition": null
+  },
+  {
+    "word_id": 132,
+    "word": "piosly",
+    "notes": null,
+    "translation": "con devozione",
+    "definition": null
+  },
+  {
+    "word_id": 133,
+    "word": "pitiful",
+    "notes": null,
+    "translation": "pietoso",
+    "definition": null
+  },
+  {
+    "word_id": 133,
+    "word": "pitiful",
+    "notes": null,
+    "translation": "ridicolo",
+    "definition": null
+  },
+  {
+    "word_id": 134,
+    "word": "platypus",
+    "notes": null,
+    "translation": "ornitorinco",
+    "definition": null
+  },
+  {
+    "word_id": 135,
+    "word": "plimp",
+    "notes": null,
+    "translation": null,
+    "definition": "fat person"
+  },
+  {
+    "word_id": 135,
+    "word": "plimp",
+    "notes": null,
+    "translation": null,
+    "definition": "small airship / barrage balloon"
+  },
+  {
+    "word_id": 135,
+    "word": "plimp",
+    "notes": null,
+    "translation": null,
+    "definition": "to get fat"
+  },
+  {
+    "word_id": 136,
+    "word": "plum",
+    "notes": "verb",
+    "translation": null,
+    "definition": "opposite of \"to skyrocket\""
+  },
+  {
+    "word_id": 137,
+    "word": "poaching",
+    "notes": null,
+    "translation": "bracconaggio",
+    "definition": null
+  },
+  {
+    "word_id": 138,
+    "word": "posh",
+    "notes": null,
+    "translation": "elegante, snob",
+    "definition": null
+  },
+  {
+    "word_id": 139,
+    "word": "potty",
+    "notes": "UK, informal",
+    "translation": "strambo, balzano",
+    "definition": "crazy"
+  },
+  {
+    "word_id": 140,
+    "word": "prick",
+    "notes": "noun",
+    "translation": "addolorare",
+    "definition": "penis"
+  },
+  {
+    "word_id": 140,
+    "word": "prick",
+    "notes": "noun",
+    "translation": "addolorare",
+    "definition": "person: insult"
+  },
+  {
+    "word_id": 140,
+    "word": "prick",
+    "notes": "noun",
+    "translation": "forzare",
+    "definition": "penis"
+  },
+  {
+    "word_id": 140,
+    "word": "prick",
+    "notes": "noun",
+    "translation": "forzare",
+    "definition": "person: insult"
+  },
+  {
+    "word_id": 140,
+    "word": "prick",
+    "notes": "noun",
+    "translation": "pungere, bucare",
+    "definition": "penis"
+  },
+  {
+    "word_id": 140,
+    "word": "prick",
+    "notes": "noun",
+    "translation": "pungere, bucare",
+    "definition": "person: insult"
+  },
+  {
+    "word_id": 140,
+    "word": "prick",
+    "notes": "noun",
+    "translation": "puntura",
+    "definition": "penis"
+  },
+  {
+    "word_id": 140,
+    "word": "prick",
+    "notes": "noun",
+    "translation": "puntura",
+    "definition": "person: insult"
+  },
+  {
+    "word_id": 141,
+    "word": "probe",
+    "notes": "noun",
+    "translation": "indagine, inchiesta",
+    "definition": "to examine by touching"
+  },
+  {
+    "word_id": 141,
+    "word": "probe",
+    "notes": "noun",
+    "translation": "interrogare",
+    "definition": "to examine by touching"
+  },
+  {
+    "word_id": 141,
+    "word": "probe",
+    "notes": "noun",
+    "translation": "sonda",
+    "definition": "to examine by touching"
+  },
+  {
+    "word_id": 142,
+    "word": "prode",
+    "notes": "verb",
+    "translation": null,
+    "definition": "to poke with a sharp object"
+  },
+  {
+    "word_id": 143,
+    "word": "purveyor",
+    "notes": null,
+    "translation": "fornitore",
+    "definition": null
+  },
+  {
+    "word_id": 144,
+    "word": "rationale",
+    "notes": null,
+    "translation": "fondamento logico, motivazione",
+    "definition": null
+  },
+  {
+    "word_id": 145,
+    "word": "recess",
+    "notes": "school, US",
+    "translation": "ricreazione",
+    "definition": null
+  },
+  {
+    "word_id": 146,
+    "word": "relinquish",
+    "notes": "verb",
+    "translation": "rinunciare a, cedere",
+    "definition": null
+  },
+  {
+    "word_id": 147,
+    "word": "reprieve",
+    "notes": null,
+    "translation": "sospensione",
+    "definition": null
+  },
+  {
+    "word_id": 147,
+    "word": "reprieve",
+    "notes": null,
+    "translation": "tregua, sollievo",
+    "definition": null
+  },
+  {
+    "word_id": 148,
+    "word": "rife",
+    "notes": null,
+    "translation": "dilagante/pieno di",
+    "definition": "rife with: full of"
+  },
+  {
+    "word_id": 149,
+    "word": "ruefulness",
+    "notes": null,
+    "translation": "sofferenza",
+    "definition": null
+  },
+  {
+    "word_id": 150,
+    "word": "sallow",
+    "notes": null,
+    "translation": "giallastro",
+    "definition": null
+  },
+  {
+    "word_id": 151,
+    "word": "saucer",
+    "notes": null,
+    "translation": "piattino",
+    "definition": null
+  },
+  {
+    "word_id": 152,
+    "word": "scion",
+    "notes": null,
+    "translation": "erede, rampollo",
+    "definition": null
+  },
+  {
+    "word_id": 153,
+    "word": "scrawny",
+    "notes": null,
+    "translation": "magro, pelle e ossa",
+    "definition": null
+  },
+  {
+    "word_id": 154,
+    "word": "sedately",
+    "notes": null,
+    "translation": "compostamente, in modo posato",
+    "definition": null
+  },
+  {
+    "word_id": 156,
+    "word": "seethe",
+    "notes": "verb",
+    "translation": null,
+    "definition": "to be in a state of excitement or anger"
+  },
+  {
+    "word_id": 156,
+    "word": "seethe",
+    "notes": "verb",
+    "translation": null,
+    "definition": "to bubble as if boiling"
+  },
+  {
+    "word_id": 155,
+    "word": "seize",
+    "notes": "verb",
+    "translation": "afferrare, capire",
+    "definition": "to grab"
+  },
+  {
+    "word_id": 155,
+    "word": "seize",
+    "notes": "verb",
+    "translation": "afferrare, capire",
+    "definition": "to take by force"
+  },
+  {
+    "word_id": 155,
+    "word": "seize",
+    "notes": "verb",
+    "translation": "confiscare, sequestrare",
+    "definition": "to grab"
+  },
+  {
+    "word_id": 155,
+    "word": "seize",
+    "notes": "verb",
+    "translation": "confiscare, sequestrare",
+    "definition": "to take by force"
+  },
+  {
+    "word_id": 157,
+    "word": "shin",
+    "notes": null,
+    "translation": "stinco",
+    "definition": null
+  },
+  {
+    "word_id": 158,
+    "word": "shoddy",
+    "notes": null,
+    "translation": "scadente",
+    "definition": null
+  },
+  {
+    "word_id": 159,
+    "word": "shrewd",
+    "notes": null,
+    "translation": "scaltro",
+    "definition": null
+  },
+  {
+    "word_id": 160,
+    "word": "simmer",
+    "notes": "verb",
+    "translation": null,
+    "definition": "to be in a state in which development, excitement, anger, etc., is present but held back"
+  },
+  {
+    "word_id": 160,
+    "word": "simmer",
+    "notes": "verb",
+    "translation": null,
+    "definition": "to cook just below the boiling point"
+  },
+  {
+    "word_id": 161,
+    "word": "sleet",
+    "notes": null,
+    "translation": "nevischio",
+    "definition": null
+  },
+  {
+    "word_id": 162,
+    "word": "slumber",
+    "notes": null,
+    "translation": "sonnellino, sonno, inattività",
+    "definition": null
+  },
+  {
+    "word_id": 163,
+    "word": "smuggle",
+    "notes": "verb",
+    "translation": null,
+    "definition": "to hide and cross the border"
+  },
+  {
+    "word_id": 164,
+    "word": "soothing",
+    "notes": null,
+    "translation": "calmante, rassicurante, emolliente",
+    "definition": null
+  },
+  {
+    "word_id": 165,
+    "word": "spate",
+    "notes": null,
+    "translation": "ondata",
+    "definition": null
+  },
+  {
+    "word_id": 166,
+    "word": "squib",
+    "notes": null,
+    "translation": "petardo",
+    "definition": "short humorous written piece"
+  },
+  {
+    "word_id": 167,
+    "word": "stagecraft",
+    "notes": null,
+    "translation": "arte scenica, scenotecnica",
+    "definition": null
+  },
+  {
+    "word_id": 168,
+    "word": "stalk",
+    "notes": "noun",
+    "translation": "stelo, gambo",
+    "definition": null
+  },
+  {
+    "word_id": 169,
+    "word": "stanch",
+    "notes": "US, staunch UK",
+    "translation": "fedele",
+    "definition": "to stop blood or tears"
+  },
+  {
+    "word_id": 169,
+    "word": "stanch",
+    "notes": "US, staunch UK",
+    "translation": "solido, robusto",
+    "definition": "to stop blood or tears"
+  },
+  {
+    "word_id": 169,
+    "word": "stanch",
+    "notes": "US, staunch UK",
+    "translation": "tamponare/fermare il flusso di",
+    "definition": "to stop blood or tears"
+  },
+  {
+    "word_id": 170,
+    "word": "steep",
+    "notes": "adjective",
+    "translation": "erto",
+    "definition": null
+  },
+  {
+    "word_id": 170,
+    "word": "steep",
+    "notes": "adjective",
+    "translation": "immergere",
+    "definition": null
+  },
+  {
+    "word_id": 170,
+    "word": "steep",
+    "notes": "adjective",
+    "translation": "macerare",
+    "definition": null
+  },
+  {
+    "word_id": 170,
+    "word": "steep",
+    "notes": "adjective",
+    "translation": "ripido",
+    "definition": null
+  },
+  {
+    "word_id": 171,
+    "word": "stem",
+    "notes": "noun",
+    "translation": "asse",
+    "definition": "to stop flow of blood"
+  },
+  {
+    "word_id": 171,
+    "word": "stem",
+    "notes": "noun",
+    "translation": "casco",
+    "definition": "to stop flow of blood"
+  },
+  {
+    "word_id": 171,
+    "word": "stem",
+    "notes": "noun",
+    "translation": "fermare, tamponare",
+    "definition": "to stop flow of blood"
+  },
+  {
+    "word_id": 171,
+    "word": "stem",
+    "notes": "noun",
+    "translation": "radice",
+    "definition": "to stop flow of blood"
+  },
+  {
+    "word_id": 171,
+    "word": "stem",
+    "notes": "noun",
+    "translation": "stelo",
+    "definition": "to stop flow of blood"
+  },
+  {
+    "word_id": 171,
+    "word": "stem",
+    "notes": "noun",
+    "translation": "stelo, gambo",
+    "definition": "to stop flow of blood"
+  },
+  {
+    "word_id": 172,
+    "word": "stingray",
+    "notes": null,
+    "translation": "pastinaca",
+    "definition": null
+  },
+  {
+    "word_id": 173,
+    "word": "stork",
+    "notes": null,
+    "translation": "cicogna",
+    "definition": null
+  },
+  {
+    "word_id": 174,
+    "word": "straitened",
+    "notes": null,
+    "translation": "limitato, misero",
+    "definition": null
+  },
+  {
+    "word_id": 175,
+    "word": "stricken",
+    "notes": null,
+    "translation": "affranto",
+    "definition": null
+  },
+  {
+    "word_id": 176,
+    "word": "stride",
+    "notes": "verb",
+    "translation": "camminare a gran passi",
+    "definition": null
+  },
+  {
+    "word_id": 177,
+    "word": "strike",
+    "notes": "verb",
+    "translation": "scioperare",
+    "definition": null
+  },
+  {
+    "word_id": 178,
+    "word": "taut",
+    "notes": null,
+    "translation": "conciso, ordinato",
+    "definition": null
+  },
+  {
+    "word_id": 179,
+    "word": "teem",
+    "notes": "verb",
+    "translation": "essere pieno di, brulicare di",
+    "definition": "to be full of, to swarm with"
+  },
+  {
+    "word_id": 179,
+    "word": "teem",
+    "notes": "verb",
+    "translation": "essere pieno di, brulicare di",
+    "definition": "to move in mass"
+  },
+  {
+    "word_id": 179,
+    "word": "teem",
+    "notes": "verb",
+    "translation": "muoversi in massa",
+    "definition": "to be full of, to swarm with"
+  },
+  {
+    "word_id": 179,
+    "word": "teem",
+    "notes": "verb",
+    "translation": "muoversi in massa",
+    "definition": "to move in mass"
+  },
+  {
+    "word_id": 180,
+    "word": "tendril",
+    "notes": null,
+    "translation": "viticcio",
+    "definition": null
+  },
+  {
+    "word_id": 181,
+    "word": "tested",
+    "notes": null,
+    "translation": "testicoli",
+    "definition": null
+  },
+  {
+    "word_id": 182,
+    "word": "thence",
+    "notes": "adverb, formal",
+    "translation": "da lì, perciò, dunque",
+    "definition": null
+  },
+  {
+    "word_id": 183,
+    "word": "thenceforth",
+    "notes": "formal",
+    "translation": "da allora in poi",
+    "definition": null
+  },
+  {
+    "word_id": 184,
+    "word": "tripe",
+    "notes": null,
+    "translation": "fesseria",
+    "definition": null
+  },
+  {
+    "word_id": 184,
+    "word": "tripe",
+    "notes": null,
+    "translation": "trippa",
+    "definition": null
+  },
+  {
+    "word_id": 185,
+    "word": "tush",
+    "notes": null,
+    "translation": "sedere",
+    "definition": null
+  },
+  {
+    "word_id": 186,
+    "word": "underbelly",
+    "notes": null,
+    "translation": null,
+    "definition": "hidden, often negative aspect of something"
+  },
+  {
+    "word_id": 186,
+    "word": "underbelly",
+    "notes": null,
+    "translation": null,
+    "definition": "the underside of an animal or object"
+  },
+  {
+    "word_id": 186,
+    "word": "underbelly",
+    "notes": null,
+    "translation": null,
+    "definition": "weak or unprotected part"
+  },
+  {
+    "word_id": 187,
+    "word": "unruffled",
+    "notes": null,
+    "translation": "impassibile",
+    "definition": null
+  },
+  {
+    "word_id": 188,
+    "word": "unseemly",
+    "notes": null,
+    "translation": "sconveniente",
+    "definition": null
+  },
+  {
+    "word_id": 189,
+    "word": "uvola",
+    "notes": null,
+    "translation": "ugola",
+    "definition": null
+  },
+  {
+    "word_id": 190,
+    "word": "vaunt",
+    "notes": "verb",
+    "translation": "vanitarsi",
+    "definition": null
+  },
+  {
+    "word_id": 191,
+    "word": "venison",
+    "notes": null,
+    "translation": "carne di cervo",
+    "definition": null
+  },
+  {
+    "word_id": 192,
+    "word": "vise",
+    "notes": "US",
+    "translation": "morsa",
+    "definition": null
+  },
+  {
+    "word_id": 193,
+    "word": "wad",
+    "notes": null,
+    "translation": "mucchio",
+    "definition": null
+  },
+  {
+    "word_id": 194,
+    "word": "weep",
+    "notes": "verb",
+    "translation": "piangere",
+    "definition": null
+  },
+  {
+    "word_id": 195,
+    "word": "wicked",
+    "notes": null,
+    "translation": "cattivo, malvagio",
+    "definition": "very, really"
+  },
+  {
+    "word_id": 195,
+    "word": "wicked",
+    "notes": null,
+    "translation": "fico, stupendo, fantastico",
+    "definition": "very, really"
+  },
+  {
+    "word_id": 195,
+    "word": "wicked",
+    "notes": null,
+    "translation": "malizioso",
+    "definition": "very, really"
+  },
+  {
+    "word_id": 196,
+    "word": "wiry",
+    "notes": null,
+    "translation": "atletico, asciutto",
+    "definition": null
+  },
+  {
+    "word_id": 197,
+    "word": "writhe",
+    "notes": "verb",
+    "translation": "contorcersi",
+    "definition": null
+  },
+  {
+    "word_id": 198,
+    "word": "yearn",
+    "notes": "verb",
+    "translation": "bramare",
+    "definition": null
+  },
+  {
+    "word_id": 198,
+    "word": "yearn",
+    "notes": "verb",
+    "translation": "volere fare",
+    "definition": null
+  },
+  {
+    "word_id": 199,
+    "word": "yeasty",
+    "notes": null,
+    "translation": "agitato, esuberante",
+    "definition": null
+  },
+  {
+    "word_id": 200,
+    "word": "yesteryear",
+    "notes": null,
+    "translation": null,
+    "definition": "years in the past"
+  }
+]

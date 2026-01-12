@@ -160,7 +160,7 @@ let showingDefinition = false;
     using the DOM API (document.querySelector, document.createElement, document.appendChild, document.innerHTML, etc.)
     to manipulate the DOM elements to display the words data in the table.
 */
-fetch('http://localhost:3000/words')
+fetch('data/words.json')
     .then(res => res.json())
     .then(data => {
         wordsData = data;
