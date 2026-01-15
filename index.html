@@ -32,8 +32,15 @@
                     <tr>
                         <th>Word</th>
                         <th>
-                            <span id="column-label">Translation</span>
-                            <button id="toggle-btn">Show Definition</button>
+                            <div class="toggle-container" id="toggleContainer">
+                                <div class="toggle-slider" id="slider"></div>
+                                <div class="toggle-option active" data-mode="translation">
+                                    Show Translation
+                                </div>
+                                <div class="toggle-option" data-mode="definition">
+                                    Show Definition
+                                </div>
+                            </div>
                         </th>
                         <th>Notes</th>
                     </tr>

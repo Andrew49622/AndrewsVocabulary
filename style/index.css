@@ -5,7 +5,7 @@
 html {
   scroll-snap-type: y mandatory;
   overscroll-behavior: contain;
-  scroll-behavior: smooth;
+  scroll-behavior: auto;
   color-scheme: dark light;
 }
 
@@ -239,6 +239,50 @@ td:first-child {
 /* ========================================
    BUTTONS
    ======================================== */
+
+.toggle-container {
+  position: relative;
+  display: inline-flex;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  border-radius: 50px;
+  padding: 6px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.toggle-option {
+  position: relative;
+  padding: 14px 32px;
+  font-size: 16px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.7);
+  cursor: pointer;
+  transition: color 0.3s ease;
+  z-index: 2;
+  user-select: none;
+}
+
+.toggle-option.active {
+  color: #fff;
+}
+
+.toggle-slider {
+  position: absolute;
+  top: 6px;
+  height: calc(100% - 12px);
+  background: linear-gradient(135deg, #6c0477 0%, #008a7e 100%);
+  border-radius: 50px;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 15px rgba(224, 224, 224, 0.4);
+  z-index: 1;
+}
+
+.toggle-container:hover .toggle-slider {
+  box-shadow: 0 6px 20px rgba(245, 87, 108, 0.5);
+}
+
+
 
 /* 3D flip button
 .toggle-btn {

@@ -152,6 +152,50 @@ window.addEventListener('scrollend', e => {
   determinePTR({target: ptr_scrollport})
 })
 
+// TOGGLE BUTTON
+
+const options = document.querySelectorAll('.toggle-option');
+        const slider = document.getElementById('slider');
+        const contentText = document.getElementById('contentText');
+        
+        let currentMode = 'translation';
+
+        function updateSlider(element) {
+            const width = element.offsetWidth;
+            const left = element.offsetLeft;    // where the slider stops after changing position
+            
+            slider.style.width = width + 'px';
+            slider.style.left = left + 'px';
+        }
+
+        function setActiveOption(selectedOption) {
+            options.forEach(opt => opt.classList.remove('active'));
+            selectedOption.classList.add('active');
+            updateSlider(selectedOption);
+            
+            currentMode = selectedOption.dataset.mode;
+            
+            if (currentMode === 'translation') {
+                contentText.textContent = 'Translation mode selected';
+            } else {
+                contentText.textContent = 'Definition mode selected';
+            }
+        }
+
+        options.forEach(option => {
+            option.addEventListener('click', function() {
+                setActiveOption(this);
+            });
+        });
+
+        // Initialize slider position
+        updateSlider(document.querySelector('.toggle-option.active'));
+
+        // Handle window resize
+        window.addEventListener('resize', () => {
+            updateSlider(document.querySelector('.toggle-option.active'));
+        });
+
 // FETCH DATA FROM DATABASE
 let wordsData = [];
 let showingDefinition = false;
