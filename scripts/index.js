@@ -174,12 +174,6 @@ const options = document.querySelectorAll('.toggle-option');
             updateSlider(selectedOption);
             
             currentMode = selectedOption.dataset.mode;
-            
-            if (currentMode === 'translation') {
-                contentText.textContent = 'Translation mode selected';
-            } else {
-                contentText.textContent = 'Definition mode selected';
-            }
         }
 
         options.forEach(option => {
@@ -252,25 +246,19 @@ function renderTable() {
     });
 }
 
-//  Toggles the column between the definition and the translation.
+//  Toggles the column between the definition and the translation. [useless?]
 function toggleColumn() {
     showingDefinition = !showingDefinition;
-    const label = document.getElementById('column-label');
-    const btn = document.getElementById('toggle-btn');
-    
-    if (showingDefinition) {
-        label.textContent = 'Definition';
-        btn.textContent = 'Show Translation';
-    } else {
-        label.textContent = 'Translation';
-        btn.textContent = 'Show Definition';
-    }
-    
     renderTable();
 }
 
 // Adds an event listener to the toggle button to toggle the column between the definition and the translation.
-document.getElementById('toggle-btn').addEventListener('click', toggleColumn);
+options.forEach(option => {
+    option.addEventListener('click', function() {
+        toggleColumn();
+        setActiveOption(this);
+    });
+});
 
 // Shows the tooltip with the notes when the mouse enters the notes button.
 function showTooltip(event, text) {
