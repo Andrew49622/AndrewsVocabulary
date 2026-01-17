@@ -155,40 +155,49 @@ window.addEventListener('scrollend', e => {
 // TOGGLE BUTTON
 
 const options = document.querySelectorAll('.toggle-option');
-        const slider = document.getElementById('slider');
-        const contentText = document.getElementById('contentText');
-        
-        let currentMode = 'translation';
+const slider = document.getElementById('slider');
+const contentText = document.getElementById('contentText');
 
-        function updateSlider(element) {
-            const width = element.offsetWidth;
-            const left = element.offsetLeft;    // where the slider stops after changing position
-            
-            slider.style.width = width + 'px';
-            slider.style.left = left + 'px';
-        }
+let currentMode = 'translation';
 
-        function setActiveOption(selectedOption) {
-            options.forEach(opt => opt.classList.remove('active'));
-            selectedOption.classList.add('active');
-            updateSlider(selectedOption);
-            
-            currentMode = selectedOption.dataset.mode;
-        }
+function updateSlider(element) {
+    const width = element.offsetWidth;
+    const left = element.offsetLeft;    // where the slider stops after changing position
+    
+    slider.style.width = width + 'px';
+    slider.style.left = left + 'px';
+}
 
-        options.forEach(option => {
-            option.addEventListener('click', function() {
-                setActiveOption(this);
-            });
-        });
+function setActiveOption(selectedOption) {
+    options.forEach(opt => opt.classList.remove('active'));
+    selectedOption.classList.add('active');
+    updateSlider(selectedOption);
+    
+    currentMode = selectedOption.dataset.mode;
+}
 
-        // Initialize slider position
-        updateSlider(document.querySelector('.toggle-option.active'));
+const toggleContainer = document.getElementById('toggleContainer');
 
-        // Handle window resize
-        window.addEventListener('resize', () => {
-            updateSlider(document.querySelector('.toggle-option.active'));
-        });
+toggleContainer.addEventListener('click', function(e) {
+
+    // Determine which option to switch to
+    const currentActive = document.querySelector('.toggle-option.active');
+    const currentIndex = Array.from(options).indexOf(currentActive);
+    const nextIndex = (currentIndex + 1) % options.length;
+    const nextOption = options[nextIndex];
+    
+    // Toggle the content and update the slider
+    toggleColumn();
+    setActiveOption(nextOption);
+});
+
+// Initialize slider position
+updateSlider(document.querySelector('.toggle-option.active'));
+
+// Handle window resize
+window.addEventListener('resize', () => {
+    updateSlider(document.querySelector('.toggle-option.active'));
+});
 
 // FETCH DATA FROM DATABASE
 let wordsData = [];
@@ -251,14 +260,6 @@ function toggleColumn() {
     showingDefinition = !showingDefinition;
     renderTable();
 }
-
-// Adds an event listener to the toggle button to toggle the column between the definition and the translation.
-options.forEach(option => {
-    option.addEventListener('click', function() {
-        toggleColumn();
-        setActiveOption(this);
-    });
-});
 
 // Shows the tooltip with the notes when the mouse enters the notes button.
 function showTooltip(event, text) {
